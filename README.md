@@ -63,5 +63,8 @@ Edit
 php artisan serve
 Akses aplikasi di: http://localhost:8000
 
+<img width="491" height="598" alt="image" src="https://github.com/user-attachments/assets/31452d24-8b11-4991-89a6-a803e4f2197b" />
+
+
 👩🏻‍💻 Kontributor
 Dea Kusuma Ningrum – Front-End Developer
